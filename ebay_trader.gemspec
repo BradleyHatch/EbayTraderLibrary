@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake',       '~> 10.0'
   spec.add_development_dependency 'rspec'
 
-  spec.add_runtime_dependency 'activesupport',  '~> 5.0'
+  spec.add_runtime_dependency 'activesupport',  '~> 7.0.4'
   spec.add_runtime_dependency 'ox',             '2.4.12'
 
   # Uncomment the following line to have monetary values cast to Money types...
